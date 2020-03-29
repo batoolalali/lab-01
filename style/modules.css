@@ -5,20 +5,16 @@
     .a{
         width: 960px;
         height: 100px;
-    
     }
     
     .b{
         width: 200px;
         height: 600px;
-       
-    
     }
     
     .c, .d{
         width: 380px;
         height: 200px;
-       
     }
     
     
@@ -30,7 +26,6 @@
     .i{
         width: 760px;
         height: 150px;
-      
     }
 }
 
@@ -41,12 +36,10 @@
     .a{
         height:75px;
         width: 480px;
-       
     }
     .b{
         width: 480px;
         height: 150px;
-       
     }
     
     .c , .d{
