@@ -1,5 +1,5 @@
 
-@media screen and (min-width:768px){
+@media screen and (min-width:1025px){    
 div {
     border: 1px solid black;
     box-sizing: border-box;
@@ -43,6 +43,54 @@ div {
 }
 
 }
+
+@media screen  and (min-width: 768px) and (max-width: 1024px) {
+    div {
+        border: 1px solid rgb(44, 3, 37);
+        box-sizing: border-box;
+    }
+    
+    .a{
+      
+        background-color: #663d56;
+       
+    
+    }
+    
+    .b{
+       
+        background-color: #2f0144;
+        
+    
+    }
+    
+    .c{
+       
+        background-color: #080007;
+       
+    
+    }
+    
+    .d{background-color: #831241 ;}
+    .e{
+      
+        background-color: #eb1bac;
+       
+    }
+    .f{background-color: #242f38;}
+
+    .g{background-color: #f0b0ce ;}
+    .h{background-color: wheat;}
+    .i{
+       
+        background-color:#f80476;
+      
+    }
+
+}
+
+
+
 
 @media screen and (max-width:767px){
     div {
